@@ -12,6 +12,7 @@
 - 사용 기술 : Jericho, Glide, Support Library
 - [Google Play][applink]
 [applink]: https://play.google.com/store/apps/details?id=com.mycompany.getam
+![Alt text](images/getaminfo1.jpg)![Alt text](images/getaminfo2.jpg)![Alt text](images/getaminfo3.jpg)
 
 ###Match Up
 
