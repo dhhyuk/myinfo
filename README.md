@@ -12,7 +12,7 @@
 - 사용 기술 : Jericho, Glide, Support Library
 - [Google Play][applink]
 [applink]: https://play.google.com/store/apps/details?id=com.mycompany.getam
-<img width="20%" src="images/getaminfo1.png"/> <img width="20%" src="images/getaminfo2.png"/> <img width="20%" src="images/getaminfo3.png"/> <img width="20%" src="images/getaminfo4.png"/>
+<img width="18%" src="images/getaminfo1.png"/> <img width="18%" src="images/getaminfo2.png"/> <img width="18%" src="images/getaminfo3.png"/> <img width="18%" src="images/getaminfo4.png"/>
 
 ###Match Up
 ####모든 스포츠 경기의 진행을 돕고 경기를 방송, 중계 할 수 있는 앱
@@ -20,3 +20,4 @@
 - 사용 기술 : Firebase, Realm, MySQL, PHP, Retrofit, RTMP, Facebook API, JavaCV, OpenCV
 - [Google Play][applink]
 [applink]: https://play.google.com/store/apps/details?id=com.stack_yy.matchup
+<img width="18%" src="images/matchup1.png"/> <img width="18%" src="images/matchup2.png"/> <img width="18%" src="images/matchup3.png"/> <img width="18%" src="images/matchup4.png"/>
