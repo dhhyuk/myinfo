@@ -31,3 +31,11 @@
 - 내용 : 고등학교 교내 해커톤 대회에서 2등 수상 앱
 
 <img width="18%" src="images/family1.png"/> <img width="18%" src="images/family2.png"/> <img width="18%" src="images/family3.png"/> <img width="18%" src="images/family4.png"/>
+
+###화남금녀
+####남녀의 입장에서 발생하는 문제들과 고민들을 익명SNS을 통해서 해결하는 앱
+- 제작 기간 : 2016/03/26 ~ 2016/03/27
+- 사용 기술 : Retrofit, ButterKnife, GSON, PHP, MYSQL, JSON
+- 내용 : SK Plannet에서 개최하는 STAC대회에서 발표상을 수상 앱
+
+<img width="18%" src="images/mbgg1.png"/> <img width="18%" src="images/mbgg2.png"/> <img width="18%" src="images/mbgg3.png"/> <img width="18%" src="images/mbgg4.png"/>
