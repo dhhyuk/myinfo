@@ -21,3 +21,12 @@
 - [Google Play][applink]
 [applink]: https://play.google.com/store/apps/details?id=com.stack_yy.matchup
 <img width="18%" src="images/matchup1.png"/> <img width="18%" src="images/matchup2.png"/> <img width="18%" src="images/matchup3.png"/> <img width="18%" src="images/matchup4.png"/>
+
+팀 프로젝트
+===========
+###세대 차이
+####가족사이에서 일어나는 문제에 대한 자신의 입장에서의 의견과 세대차이를 이해하기위해 많은 컨텐츠를 제공하는 앱
+- 제작 기간 : 2016/05/27 ~ 2016/05/28
+- 사용 기술 : Retrofit, Gson, Jericho, Glide JSP, MYSQL, JSON, Support Library
+- 내용 : 고등학교 교내 해커톤 대회에서 2등 수상 앱
+<img width="18%" src="images/family1.png"/> <img width="18%" src="images/family2.png"/> <img width="18%" src="images/family3.png"/> <img width="18%" src="images/family4.png"/>
