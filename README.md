@@ -22,6 +22,14 @@
 [applink]: https://play.google.com/store/apps/details?id=com.stack_yy.matchup
 <img width="18%" src="images/matchup1.png"/> <img width="18%" src="images/matchup2.png"/> <img width="18%" src="images/matchup3.png"/> <img width="18%" src="images/matchup4.png"/>
 
+###20초 던전
+####타마고형식의 게임으로 많은 던전을 클리어하며 돈을 벌어 무기를 뽑고, 강화하며 더욱 난이도 있는 보스를 클리어 해나가는 게임 앱
+- 제작 기간 : 2015/05/15 ~ 2015/06/21
+- 사용 기술 : View, SurfaceView
+- [Google Play][applink]
+[applink]: https://play.google.com/store/apps/details?id=com.second.dungeon
+<img width="18%" src="images/20second1.png"/> <img width="18%" src="images/20second2.png"/> <img width="18%" src="images/20second3.png"/> <img width="18%" src="images/20second4.png"/> <img width="18%" src="images/20second5.png"/>
+
 팀 프로젝트
 ===========
 ###세대 차이
