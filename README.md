@@ -6,7 +6,7 @@
 
 경력 사항
 ============
-### KongTech
+### [KongTech](https://kong-tech.com/)
 - 직무 : 모바일 앱 개발 (Android, iOS)
 - [Android](https://play.google.com/store/apps/developer?id=KONGTECH) : 대부분의 어플리케이션 개발 참여
 - [iOS](https://itunes.apple.com/gb/developer/kongtech/id1178419262) : 모든 어플리케이션 개발
