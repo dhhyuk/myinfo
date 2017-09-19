@@ -4,6 +4,13 @@
 - 나이 : 20세
 - 주 기술 : 안드로이드 & iOS
 
+경력 사항
+============
+### KongTech
+- 직무 : 모바일 앱 개발 (Android, iOS)
+- [Android](https://play.google.com/store/apps/developer?id=KONGTECH) : 대부분의 어플리케이션 개발 참여
+- [iOS](https://itunes.apple.com/gb/developer/kongtech/id1178419262) : 모든 어플리케이션 개발
+
 개인 프로젝트
 ============
 ### Match Up
