@@ -12,7 +12,7 @@
 
 ### [콩체크](https://check.kong-tech.com)
 <br/>
-<img width="18%" src="images/kongcheck1.png"/> <img width="18%" src="images/kongcheck2.png"/> <img width="18%" src="images/kongcheck3.png"/> <img width="18%" src="images/kongcheck4.png"/> <img width="18%" src="images/kongcheck5.png"/>
+<img width="18%" src="images/kongcheck1.PNG"/> <img width="18%" src="images/kongcheck2.PNG"/> <img width="18%" src="images/kongcheck3.PNG"/> <img width="18%" src="images/kongcheck4.PNG"/> <img width="18%" src="images/kongcheck5.PNG"/>
 
 
 개인 프로젝트
