@@ -1,18 +1,41 @@
 프로필
 ============
-- 이름 : 김동혁
-- 나이 : 22세
-- 주 기술 : iOS, Swift
+## 김동혁 / DongHyuk Kim
+#### Email&ensp;&ensp;&ensp;&ensp;&ensp;sss989870@gmail.com
+#### Blog &ensp;&ensp;&ensp;&ensp;&ensp;https://dongkyprogramming.tistory.com/
+#### Skills &ensp;&ensp;&ensp;&ensp;&ensp;iOS, Swift, Android
+#### Age  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;22
+
+
+
 
 경력 사항
 ============
-## [콩테크 주식회사](https://kong-tech.com/)
-- 직무 : iOS 앱 개발자 (소프트웨어 사업부)
-- 근무 기간 : 2016년 11월 ~ 재직중
+## 콩테크 주식회사
+#### https://kong-tech.com/
+### - iOS Developer (소프트웨어 사업부)<br/>- 2016년 11월 ~ 재직중 (병역특례 산업기능요원)
 
-### [콩체크](https://check.kong-tech.com)
-<br/>
-<img width="18%" src="images/kongcheck1.PNG"/> <img width="18%" src="images/kongcheck2.PNG"/> <img width="18%" src="images/kongcheck3.PNG"/> <img width="18%" src="images/kongcheck4.PNG"/> <img width="18%" src="images/kongcheck5.PNG"/>
+### 콩체크
+#### https://check.kong-tech.com
+#### 비콘 기술을 이용한 출입 통제 및 구분으로 근무시간 측정과 다양한 근무 데이터들을 제공하는 서비스
+- Preview <br/>
+<img width="19%" src="images/kongcheck1.PNG"/> <img width="19%" src="images/kongcheck2.PNG"/> <img width="19%" src="images/kongcheck3.PNG"/> <img width="19%" src="images/kongcheck4.PNG"/> <img width="19%" src="images/kongcheck5.PNG"/>
+
+#### 콩체크 프로젝트 시작부터 iOS 기능 개발 / 유지 보수를 혼자 담당했습니다.<br/>
+#### 앱의 규모가 커질수록 코드 유지보수성 / 재사용성에 많이 신경을 썻으며,<br/>특히 블루투스와 네트워크 통신들의 안정성에 신경을 썻습니다. 
+### 사용
+- Swift, RxSwift, RxCocoa
+- Moya 
+- Clean Architecture
+- Google Login, Kakao Login
+- Firebase Crashlytics
+
+
+### Plutocon
+#### https://www.kong-tech.com/beacon/plutocon
+#### No Message
+- Preview <br/>
+<img width="19%" src="images/plutocon1.PNG"/> <img width="19%" src="images/plutocon2.PNG"/> <img width="19%" src="images/plutocon3.PNG"/> <img width="19%" src="images/plutocon4.PNG"/> <img width="19%" src="images/plutocon5.PNG"/>
 
 
 개인 프로젝트
