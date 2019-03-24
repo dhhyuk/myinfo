@@ -22,7 +22,7 @@
 <img width="19%" src="images/kongcheck1.PNG"/> <img width="19%" src="images/kongcheck2.PNG"/> <img width="19%" src="images/kongcheck3.PNG"/> <img width="19%" src="images/kongcheck4.PNG"/> <img width="19%" src="images/kongcheck5.PNG"/>
 
 #### 콩체크 프로젝트 시작부터 iOS 기능 개발 / 유지 보수를 혼자 담당했습니다.<br/>
-#### 앱의 규모가 커질수록 코드 유지보수성 / 재사용성에 많이 신경을 썻으며,<br/>특히 블루투스와 네트워크 통신들의 안정성에 신경을 썻습니다. 
+#### 앱의 규모가 커질수록 코드 유지보수성 / 재사용성에 많이 신경을 으며,<br/>특히 블루투스와 네트워크 통신들의 안정성에 신경을 썼습니다. 
 ### 사용
 - Swift, RxSwift, RxCocoa
 - Moya 
