@@ -2,14 +2,18 @@
 ============
 - 이름 : 김동혁
 - 나이 : 22세
-- 주 기술 : iOS & Android
+- 주 기술 : iOS, Swift
 
 경력 사항
 ============
-### [KongTech](https://kong-tech.com/)
-- 직무 : 모바일 앱 개발 (iOS, Android)
-- [iOS](https://itunes.apple.com/gb/developer/kongtech/id1178419262) : 모든 어플리케이션 개발
-- [Android](https://play.google.com/store/apps/developer?id=KONGTECH) : 대부분의 어플리케이션 개발 참여
+## [콩테크 주식회사](https://kong-tech.com/)
+- 직무 : iOS 앱 개발자 (소프트웨어 사업부)
+- 근무 기간 : 2016년 11월 ~ 재직중
+
+### [콩체크](https://check.kong-tech.com)
+<br/>
+<img width="18%" src="images/kongcheck1.png"/> <img width="18%" src="images/kongcheck2.png"/> <img width="18%" src="images/kongcheck3.png"/> <img width="18%" src="images/kongcheck4.png"/> <img width="18%" src="images/kongcheck5.png"/>
+
 
 개인 프로젝트
 ============
