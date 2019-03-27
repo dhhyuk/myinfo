@@ -32,7 +32,7 @@
 <br/>
 
 ### Plutocon (https://www.kong-tech.com/beacon/plutocon)
-#### No Message
+#### 자사 비콘 제품인 Plutocon을 앱을 통해서 데이터 변경, 관리를 하고,<br/>이를 클라우드 환경에서도 조회할 수 있도록 동기화하는 앱
 - Preview <br/>
 <img width="19%" src="images/plutocon1.PNG"/> <img width="19%" src="images/plutocon2.PNG"/> <img width="19%" src="images/plutocon3.PNG"/> <img width="19%" src="images/plutocon4.PNG"/> <img width="19%" src="images/plutocon5.PNG"/>
 
@@ -55,8 +55,7 @@
 - [Google Play](https://play.google.com/store/apps/details?id=com.mycompany.getam)<br/>
 <img width="18%" src="images/getaminfo1.png"/> <img width="18%" src="images/getaminfo2.png"/> <img width="18%" src="images/getaminfo3.png"/> <img width="18%" src="images/getaminfo4.png"/>
 
-#### 어렸을 때 좋아하던 게임의 정보를 보여주는 앱으로, 제가 코딩에 관심을 가진 계기인 앱입니다.
-#### 게임의 정보를 보여주기 위해서 게임 홈페이지에 있는 데이터들을 HTML로 파싱 후 이미지로 뿌리는 형태에 앱 입니다.
+#### 어렸을 때 좋아하던 게임의 정보를 보여주는 앱으로, 제가 코딩에 관심을 가진 계기인 앱입니다.<br/>게임의 정보를 보여주기 위해서 게임 홈페이지에 있는 데이터들을 HTML로 파싱 후 이미지로 뿌리는 형태에 앱 입니다.
 
 
 ### Match Up
@@ -66,5 +65,4 @@
 - [Google Play](https://play.google.com/store/apps/details?id=com.stack_yy.matchup)<br/>
 <img width="18%" src="images/matchup1.png"/> <img width="18%" src="images/matchup2.png"/> <img width="18%" src="images/matchup3.png"/> <img width="18%" src="images/matchup4.png"/>
 
-#### 고등학생때, STAC이라는 대회 참여 때 만든 앱 입니다. 스포츠 중계를 하기위해서 점수판 형태로 실시간 경기들을 볼 수 있고,
-#### OpenCV, RTMP와 Facebook Live API를 이용해 실제 영상 경기도 페이스북을 통해서 볼 수 있게 한 앱입니다.
+#### 고등학생때, STAC이라는 대회 참여 때 만든 앱 입니다. 스포츠 중계를 하기위해서 점수판 형태로 실시간 경기들을 볼 수 있고,<br/>OpenCV, RTMP와 Facebook Live API를 이용해 실제 영상 경기도 페이스북을 통해서 볼 수 있게 한 앱입니다.
