@@ -3,7 +3,7 @@
 ## 김동혁 / DongHyuk Kim
 #### Email&ensp;&ensp;&ensp;&ensp;&ensp;sss989870@gmail.com
 #### Blog &ensp;&ensp;&ensp;&ensp;&ensp;https://dongkyprogramming.tistory.com/
-#### Skills &ensp;&ensp;&ensp;&ensp;&ensp;iOS, Swift, Android
+#### Skills &ensp;&ensp;&ensp;&ensp;&ensp;iOS, Swift,  Android, Java
 #### Age  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;22
 
 <br/><br/>
