@@ -32,7 +32,7 @@
 <br/>
 
 ### Plutocon (https://www.kong-tech.com/beacon/plutocon)
-#### 자사 비콘 제품인 Plutocon을 앱을 통해서 데이터 변경, 관리를 하고,<br/>이를 클라우드 환경에서도 조회할 수 있도록 동기화하는 앱
+#### 자사 비콘 제품인 Plutocon을 앱을 통해서 데이터 변경, 관리를 하고,<br/>이를 클라우드 환경에서도 조회할 수 있도록 동기화하는 앱입니다.
 - Preview <br/>
 <img width="19%" src="images/plutocon1.PNG"/> <img width="19%" src="images/plutocon2.PNG"/> <img width="19%" src="images/plutocon3.PNG"/> <img width="19%" src="images/plutocon4.PNG"/> <img width="19%" src="images/plutocon5.PNG"/>
 
