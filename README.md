@@ -11,9 +11,17 @@
 
 경력 사항
 ============
+## 레이니스트 (https://rainist.com/)
+### - iOS Engineer
+### - 2019년 7월 ~ 재직중 (산업기능요원 복무중)
+<br/>
+
+### 뱅크샐러드 (https://banksalad.com/)
+#### 500만이 선택한 내 돈 관리앱
+
 ## 콩테크 주식회사 (https://kong-tech.com)
 ### - iOS Developer (소프트웨어 사업부)  
-### - 2016년 11월 ~ 재직중 (병역특례 산업기능요원)  
+### - 2016년 11월 ~ 2019년 7월
 <br/>
 
 ### 콩체크 (https://check.kong-tech.com)
