@@ -1,23 +1,20 @@
 프로필
 ============
 ## 김동혁 / DongHyuk Kim
-#### Email&ensp;&ensp;&ensp;&ensp;&ensp;sss989870@gmail.com
-#### Blog &ensp;&ensp;&ensp;&ensp;&ensp;http://sss989870.iptime.org/blog
-#### Skills &ensp;&ensp;&ensp;&ensp;&ensp;iOS, Swift,  Android, Java
-#### Age  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;22
+#### Skills &ensp;&ensp;&ensp;&ensp;&ensp;iOS, Swift
 
 <br/><br/>
 
 
 경력 사항
 ============
-## 레이니스트 (https://rainist.com/)
+## 뱅크샐러드 (https://banksalad.com)
 ### - iOS Engineer
 ### - 2019년 7월 ~ 재직중 (산업기능요원 복무중)
 <br/>
 
 ### 뱅크샐러드 (https://banksalad.com/)
-#### 500만이 선택한 내 돈 관리앱
+#### 데이터르 맛보다
 <br/>
 <br/>
 <br/>
