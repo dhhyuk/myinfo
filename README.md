@@ -9,12 +9,8 @@
 경력 사항
 ============
 ## 뱅크샐러드 (https://banksalad.com)
-### - iOS Engineer
+### - iOS Engineer (Budget Management Squad - 가계부)
 ### - 2019년 7월 ~ 재직중 (산업기능요원 복무중)
-<br/>
-
-### 뱅크샐러드 (https://banksalad.com/)
-#### 데이터르 맛보다
 <br/>
 <br/>
 <br/>
